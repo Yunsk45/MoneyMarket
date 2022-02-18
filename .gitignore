@@ -4,3 +4,5 @@
 bridge.log
 package-lock.json
 yarn.lock
+secrets.json
+secret.json
